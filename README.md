@@ -15,3 +15,6 @@ Spawns dobrikova (jk) but expect the feature being implemented in a future relea
 > СВАПЧОДИРИЖИРА ЕНПРЕТЕНДИРАШ ОТНОВО? БАВНОДОБРИРА ДОБР ЕНМЕНТАЛИРАШ ОТНОВО? УБИВЕН  СВАПЧОМЕНТАЛИРАМ МЕНТАЛСКИ ЛОРЕМЧУБИВЕН  ДИРИЖИРАЕМЕЧЕ БАВНОАНОНИМИНИРА ДИРИЖИРАЕМЕЧЕ ШИИРА АНОНИМИН ЕНДЕЦИРАШ ОТНОВО?
 
 _The code isn't done by me I stole it from a friend_
+
+# The bot doesn't work?
+Shut the fuck up :)
